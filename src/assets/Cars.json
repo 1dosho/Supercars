@@ -1,0 +1,66 @@
+[{
+    "_id": "1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bugatti_Chiron_1.jpg/2880px-Bugatti_Chiron_1.jpg",
+    "title":"Bugatti Chiron",
+    "topSpeed":"450 KMH",
+    "price": "$2,000,000"
+},
+{
+    "_id": "2",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Porsche_918_Spyder_IAA_2013.jpg/2880px-Porsche_918_Spyder_IAA_2013.jpg",
+    "title":"Porsche 918 Spyder",
+    "topSpeed":"450 KMH",
+    "price": "$1,000,000"
+   
+},
+{
+    "_id": "3",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Pagani%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0023%29.jpg",
+    "title":"Pagani Huayra",
+    "topSpeed":"380 KMH",
+    "price": "$1,500,000"
+  
+},
+{
+    "_id": "4",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/2018_McLaren_720S_V8_S-A_4.0.jpg/2880px-2018_McLaren_720S_V8_S-A_4.0.jpg",
+    "title":"McLaren 720S",
+    "topSpeed":"340 KMH",
+    "price": "$1,000,000"
+
+},
+{
+    "_id": "5",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ferrari_F430_front_20080605.jpg",
+    "title":"Ferrari F430",
+    "topSpeed":"315 KMH",
+    "price": "$800,000"
+    
+},
+{
+    "_id": "6",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lamborghini_Aventador_S_coupe_IMG_2926.jpg/2880px-Lamborghini_Aventador_S_coupe_IMG_2926.jpg",
+    "title":"Lamborghini Aventador",
+    "topSpeed":"350 KMH",
+    "price": "$1,000,000"
+   
+},
+{
+    "_id": "7",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2015_Koenigsegg_Agera_N_%2819886243212%29.jpg/2880px-2015_Koenigsegg_Agera_N_%2819886243212%29.jpg",
+    "title":"Koenigsegg Agera",
+    "topSpeed":"460 KMH",
+    "price": "$2,000,000"
+   
+
+},
+{
+    "_id": "8",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/R8_Coupe_V10_performance-1.jpg/2880px-R8_Coupe_V10_performance-1.jpg",
+    "title":"Audi R8",
+    "topSpeed":"320 KMH",
+    "price": "$600,000"
+   
+    
+}
+]
